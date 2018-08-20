@@ -69,17 +69,6 @@ except NameError:
     pass
 
 
-#dirpath = input("Directory path with XML files: ")
-#classes_txt = input("File containing classes: ")
-#ext = input("Image file extension: ")
-
-#parentpath = input("Directory path with parent dir before xml_dir or img_dir: ")
-#addxmlpath = input("Directory path with XML files: ")
-#addimgpath = input("Directory path with IMG files: ")
-#classes_txt = input("File containing classes: ")
-#ext = input("Image file extension [.jpg or .png]: ")
-#imgpath = input("Directory path with IMG files: ")
-
 parentpath = './' #"Directory path with parent dir before xml_dir or img_dir"
 addxmlpath = parentpath + 'traffic_label/201702071403' #"Directory path with XML files"
 addimgpath = parentpath + 'traffic_img/201702071403' #"Directory path with IMG files"
