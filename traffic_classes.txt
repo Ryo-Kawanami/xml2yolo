@@ -1,0 +1,9 @@
+Stopline
+Crosswalk
+Green
+Yellow
+Red
+Leftgo
+Rightgo
+Middlego
+Unknown
